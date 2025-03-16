@@ -1,4 +1,4 @@
-![topimage](image/topimage.png)
+![topimage](/image/topimage.png)
 # LaboRobo
 
 **実験自動化を個人の手に**
